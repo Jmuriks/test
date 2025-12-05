@@ -3,8 +3,8 @@ a = 3.14
 b = 180
 print(a*b)
 
-name = "Jmurik"
-lastname = "Pohui"
+name = input("Write your name: ")
+lastname = input("Write your lastname: ")
 
 print(f"User full name {name, lastname}")
 
