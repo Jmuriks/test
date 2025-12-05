@@ -7,3 +7,5 @@ name = "Jmurik"
 lastname = "Pohui"
 
 print(f"User full name {name, lastname}")
+
+print("DiNAhu")
