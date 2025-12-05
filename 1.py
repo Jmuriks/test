@@ -5,3 +5,5 @@ print(a*b)
 
 name = "Jmurik"
 lastname = "Pohui"
+
+print(f"User full name {name, lastname}")
